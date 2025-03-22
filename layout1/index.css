@@ -1,0 +1,45 @@
+* { 
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+ 
+
+
+}
+
+
+.line-up {
+    height: 7vh;
+    width: 1920vw;
+    background-color: #3750B3;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+
+}
+
+.cabeçalho {
+  width: 100vw;
+  height: 71px;
+
+
+}
+
+.imagem {
+
+    background-image: url(../layout1/assets/imgs/Rectangle\ 3.png);
+    background-size: cover;
+    
+
+    width: 50vw;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: auto 
+    
+
+}
