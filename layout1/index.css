@@ -6,75 +6,54 @@
     margin: 0px;
     box-sizing: border-box;
 
-}
-
-.line-up {
-    height: 8vh;
-    width: 1920vw;
-    background-color: #3750B3;
-    position: fixed;
-    top: 0;
-    left: 0;
-
-
-}
 
 .cabeçalho {
-  width: 100vw;
-  height: 71px;
-
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px;
+    background-color: #3750B3;
+    height: 8vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
 }
 
-.imagem {
+.Login {
+    font-size: 12px;
+    color: white;
+    padding: 70px;
+    font-family: Inter;
+   
 
+}
+
+.Palavras {
+    font-size: 12px;
+    color: white;
+    padding: 70px;
+    font-family: inter;
+}
+
+.Imagem {
     background-image: url(../layout1/assets/imgs/Rectangle\ 3.png);
-    background-size: cover;
-    
-    width: 70vw;
-    height: 40vh;
-    display: flex;
+    background-size: cover; 
+    /* width: 70vw; */
+    height: 50vh;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    margin: auto;
+    margin: 50px;
     
 
-}
-
-.right {
-    margin-left: 1200px;
-    display: flex;
-    font-family: Inter;
-    position: fixed;
-    
-    
-}
-
-.left  {
-
-    margin-right: 100px;
-    display: flex;
-    font-family: Inter;
-   
 }
 
 .meu-titulo {
     font-size: 64px;
+    margin: 20px 20px 0px 50px;
     
-
 }
 
 .minha-descriçao {
     font-size: 32px;
-    display: flex;
-    justify-content: left;
-    flex-direction: column;
-    align-items: flex-start;
-    margin: auto;
- 
+    margin: 0px 20px 20px 50px;
+    
 }
