@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+* { 
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+
+.cabeçalho {
+    background-color: #3750B3;
+    height: 8vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.Login {
+    font-size: 12px;
+    color: white;
+    padding: 70px;
+    font-family: Inter;
+   
+
+}
+
+.Palavras {
+    font-size: 12px;
+    color: white;
+    padding: 70px;
+    font-family: inter;
+}
+
+.Imagem {
+    background-image: url(../layout2/assets/imgs/Rectangle\ 3.png);
+    background-size: cover; 
+    /* width: 70vw; */
+    height: 50vh;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+    
+
+}
+
+.meu-titulo {
+    font-size: 64px;
+    margin: 20px 20px 0px 50px;
+    
+}
+
+.minha-descriçao {
+    font-size: 32px;
+    margin: 0px 20px 20px 50px;
+    
+}
