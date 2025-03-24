@@ -56,5 +56,61 @@
 .minha-descriçao {
     font-size: 32px;
     margin: 0px 20px 20px 50px;
+
+    
+}
+
+/* site 1 */
+.imagens23 {
+    display: flex;
+    justify-content: space-between; 
+    
+
+}
+
+.imagem2 {
+    background-image: url(../layout2/assets/imgs/imagem23.png);
+    background-size: cover;
+    width: 50vw;
+    height: 70vh;
+    margin: 70px 70px 70px 200px;
+
+}
+
+.imagem3 {
+    background-image: url(../layout2/assets/imgs/imagem23.png);
+    background-size: cover;
+    width: 50vw;
+    height: 70vh;
+    margin: 70px 200px 70px 70px;
+    
+}
+
+/* site 2 */
+ .Imagem4 {
+
+    background-image: url(../layout2/assets/imgs/imagem23.png);
+    background-size: cover;
+    width: 30vw;
+    height: 80vh;
+    margin: 50px 0px 50px 250px;
+    
+} 
+
+
+.meu-titulo2 {
+    font-size: 64px;  
+    margin: 50px 100px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.minha-descriçao2 {
+    font-size: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     
 }
