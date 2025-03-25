@@ -7,6 +7,8 @@
     margin: 0px;
     box-sizing: border-box;
 
+ }
+
 
 .cabeçalho {
     background-color: #3750B3;
@@ -91,10 +93,11 @@
 
     background-image: url(../layout2/assets/imgs/imagem23.png);
     background-size: cover;
-    width: 30vw;
-    height: 65vh;
-    margin: 70px 70px 70px 200px;
+    width: 50vw;
+    height: 75vh;
+    margin: 70px;
     display: flex;
+    
     
 } 
 
@@ -117,8 +120,10 @@ flex-direction: row;
 
 
 }
+
 .meu-titulo2 {
     font-size: 64px;  
+
 
 } 
 
